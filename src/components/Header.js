@@ -21,7 +21,7 @@ function Header() {
       <Container fluid>
         <Row className="navbar">
           <Col className="navbar-left" md={4}>
-            <span className="navbar-text" onClick={() => navigate("/")}>
+            <span className="navbar-text" onClick={() => navigate("/food-order")}>
               BURGER BRAND
             </span>
           </Col>

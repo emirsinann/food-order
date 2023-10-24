@@ -523,7 +523,7 @@ const Cart = () => {
                   <p>{calculateTotalPrice()}₺</p>
                 </Col>
                 <Col className="handle-button" md={12}>
-                  <button type="button" className="btn btn-warning cart-button" onClick={()=>navigate('/')}>
+                  <button type="button" className="btn btn-warning cart-button" onClick={()=>navigate('/food-order')}>
                     <strong>Alışverişe Dön</strong>
                   </button>
                   <button
