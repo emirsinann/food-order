@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/food-order/static/css/main.db14185f.css",
+    "main.js": "/food-order/static/js/main.02f8ebb9.js",
+    "static/media/footer-bg.png": "/food-order/static/media/footer-bg.3e0d85ec3196247e301d.png",
+    "static/media/bugeritem1.jpg": "/food-order/static/media/bugeritem1.f8618ee91011d11d1473.jpg",
+    "static/media/6.png": "/food-order/static/media/6.a1c427c4542a2d382c1b.png",
+    "static/media/2.png": "/food-order/static/media/2.ce8aaea49f41447b607d.png",
+    "static/media/add-to-cart.png": "/food-order/static/media/add-to-cart.2be3b927f68ce2f54ba1.png",
+    "static/media/shopping-cart.png": "/food-order/static/media/shopping-cart.54e4acd7517786200bfe.png",
+    "static/media/home.png": "/food-order/static/media/home.042a8f9f7e0de0d7901c.png",
+    "static/media/9.jpg": "/food-order/static/media/9.30339528d18e819ddb20.jpg",
+    "static/media/16.jpg": "/food-order/static/media/16.0e8136b668b3b9d53da7.jpg",
+    "static/media/14.jpg": "/food-order/static/media/14.a0513a39e27f4ebb04d1.jpg",
+    "static/media/5.jpeg": "/food-order/static/media/5.635b80eac7394910741a.jpeg",
+    "static/media/10.jpg": "/food-order/static/media/10.dd99f6b2ac57b252dcbb.jpg",
+    "static/media/4.jpeg": "/food-order/static/media/4.450de2f1cb916db2a412.jpeg",
+    "static/media/8.jpg": "/food-order/static/media/8.e6d6c46a6756258dd9b1.jpg",
+    "static/media/13.jpg": "/food-order/static/media/13.963f956e0c754043d740.jpg",
+    "static/media/7.jpg": "/food-order/static/media/7.320b3ca5ff4dc077243c.jpg",
+    "static/media/1.jpg": "/food-order/static/media/1.1ab9a19738704bcd75a3.jpg",
+    "static/media/11.jpg": "/food-order/static/media/11.0c32dddeb29e4862df17.jpg",
+    "static/media/17.jpg": "/food-order/static/media/17.62bee1249719c151ae48.jpg",
+    "static/media/3.jpeg": "/food-order/static/media/3.61e678487ef6add53c69.jpeg",
+    "static/media/15.jpg": "/food-order/static/media/15.7bbcca9b86b6154204ab.jpg",
+    "static/media/19.jpg": "/food-order/static/media/19.0a8f2b9cfea120fcda03.jpg",
+    "static/media/18.jpg": "/food-order/static/media/18.fd4de67263fc074cd0ec.jpg",
+    "static/media/12.jpg": "/food-order/static/media/12.5166a6bd75b9f9eec19a.jpg",
+    "index.html": "/food-order/index.html",
+    "main.db14185f.css.map": "/food-order/static/css/main.db14185f.css.map",
+    "main.02f8ebb9.js.map": "/food-order/static/js/main.02f8ebb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db14185f.css",
+    "static/js/main.02f8ebb9.js"
+  ]
+}
