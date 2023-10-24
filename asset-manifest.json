@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/food-order/static/css/main.db14185f.css",
-    "main.js": "/food-order/static/js/main.02f8ebb9.js",
+    "main.css": "/food-order/static/css/main.b5c24779.css",
+    "main.js": "/food-order/static/js/main.8ce316eb.js",
     "static/media/footer-bg.png": "/food-order/static/media/footer-bg.3e0d85ec3196247e301d.png",
     "static/media/bugeritem1.jpg": "/food-order/static/media/bugeritem1.f8618ee91011d11d1473.jpg",
     "static/media/6.png": "/food-order/static/media/6.a1c427c4542a2d382c1b.png",
@@ -27,11 +27,11 @@
     "static/media/18.jpg": "/food-order/static/media/18.fd4de67263fc074cd0ec.jpg",
     "static/media/12.jpg": "/food-order/static/media/12.5166a6bd75b9f9eec19a.jpg",
     "index.html": "/food-order/index.html",
-    "main.db14185f.css.map": "/food-order/static/css/main.db14185f.css.map",
-    "main.02f8ebb9.js.map": "/food-order/static/js/main.02f8ebb9.js.map"
+    "main.b5c24779.css.map": "/food-order/static/css/main.b5c24779.css.map",
+    "main.8ce316eb.js.map": "/food-order/static/js/main.8ce316eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.db14185f.css",
-    "static/js/main.02f8ebb9.js"
+    "static/css/main.b5c24779.css",
+    "static/js/main.8ce316eb.js"
   ]
 }
