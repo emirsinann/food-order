@@ -1,6 +1,6 @@
 {
   "homepage": "https://emirsinann.github.io/food-order/",
-  "name": "food-application",
+  "name": "food-order",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
